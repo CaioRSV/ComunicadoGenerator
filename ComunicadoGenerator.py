@@ -98,7 +98,7 @@ if listaFrases[4] in listaFrases:
     draw.text((90 ,398), listaFrases[4], font=font, fill='black')
 
 draw.text((90 ,516), (('VITÓRIA-PE, {}'.format(c.upper()))+'.'), font=font, fill='black')
-#
+#-.-. .- .. --- .-. ... ...-
 pic.show()
 result=('Comunicado Mensal de Manutenção- {} - {}.png'.format(a.upper(), ano))
 pic.save(result)
